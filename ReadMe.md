@@ -18,5 +18,7 @@
 #  No module named Crypto.Cipher
 
 ```
+wget https://bootstrap.pypa.io/pip/2.7/get-pip.py
+python2 get-pip.py
 pip2 install pycryptodome
 ```
