@@ -14,3 +14,9 @@
 ![shiro_3](shiro_3.PNG)
 
 --Hacked by Sunird
+
+#  No module named Crypto.Cipher
+
+```
+pip2 install pycryptodome
+```
